@@ -1,4 +1,4 @@
-<h1>Active Directory Lab 3: Remote Desktop Setup for Non-Administrative Users</h1>
+<h1>Active Directory Lab: Remote Desktop Setup for Non-Administrative Users</h1>
 
 <h2>Project Summary</h2>
 <p>
